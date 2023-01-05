@@ -1,0 +1,258 @@
+@media (max-width: 1201px){
+    .phone-icon {
+        width: 17%;
+    }
+    .contact-phone {
+        font-size: 15px;
+    }
+    .contact-mail img{
+        width: 7%;
+    }
+    .contact-mail {
+        font-size: 15px;
+    }
+    .container {
+        max-width: 980px;
+    }
+    .info-text {
+        font-size: 28px;
+    }
+    .info-btn {
+        width: 21%;
+    }    
+    .content-title {
+        font-size: 14px;
+    }    
+    .service-btn {
+        width: 21%;
+    }
+
+}
+@media (max-width: 1025px){
+    .nav_conact {
+        width: 49%;
+    }
+    .footer{
+        padding: 5px 0;
+    }
+
+}
+@media (max-width: 896px){
+    .container {
+        max-width: 813px;
+    }
+    .nav_list_item a {
+        font-size: 15px;
+    }
+    
+    .nav_conact {
+        width: 56%;
+    }
+    .header-title {
+        font-size: 42px;
+    }
+    .content-title {
+        font-size: 11px;
+    }
+    .footer-media{
+        font-size: 11px;
+    }
+    
+}
+@media (max-width: 821px){
+    .container {
+        max-width: 784px;
+    }
+    .title-media{
+        font-size: 42px;
+    }
+    .btn{
+        font-size: 16px;
+    }
+
+}
+@media (max-width: 769px){
+    .nav_conact {
+        width: 67%;
+    }
+    .header-items {
+        justify-content: space-around;
+    }
+    .info-text {
+        font-size: 22px;
+    }
+    .nav_logo {
+        width: 16%;
+    }
+    .nav-group {
+        width: 80%;
+    }    
+    .nav_list {
+        width: 72%;
+        margin-bottom: 10px;
+        
+    }
+    .nav_conact {
+        width: 74%;
+    }
+}
+@media (max-width: 482px){
+    .nav_list_item a {
+        font-size: 13px;
+    }
+    .contact-mail {
+        font-size: 10px;
+    }
+    .contact-phone {
+        font-size: 10px;
+    }
+    .nav-group {
+        width: 83%;
+    }
+    .nav_conact {
+        width: 85%;
+    }
+    .title-media {
+        font-size: 22px;
+    }
+    .info-text {
+        width: 100%;
+        font-size: 18px;
+    }
+    .container {
+        max-width: 450px;
+    }
+    .info-pic {
+        width: 82%;
+        margin-top: 10px;
+    }
+    .info-btn {
+        width: 58%;
+    }
+    .content-item {
+        width: 44%;
+    }
+    .content-title {
+        font-size: 14px;
+    }
+    .service-btn {
+        width: 58%;
+    }
+    .form {
+        width: 100%;
+    }
+    .input {
+        width: 86%;
+    }
+    textarea {
+        width: 86%;
+    }
+    .btn-submit {
+        width: 58%;
+    }
+    .footer-logo {
+        width: 32%;
+        margin: 0 auto;
+    }
+    .footer-devider {
+        width: 100%;
+    }
+    .footer-address {
+        width: 100%;
+    }
+    .footer-media {
+        font-size: 13px;
+    }
+    .footer-contacts {
+        width: 100%;
+        margin-top: 10px;
+    }
+    .rights {
+        margin-top: 10px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .dev{
+        width: 100%;
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+
+}
+
+@media (max-width: 429px){
+    .container {
+        max-width: 384px;
+    }
+    .nav_logo {
+        width: 35%;
+    }
+    .nav-group {
+        width: 50%;
+    }
+    .nav_list {
+        width: 74%;
+    }
+    .nav_conact {
+        width: 100%;
+    }
+    .contact-phone {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        font-size: 14px;
+    }
+    .phone-icon {
+        width: 10%;
+    }
+    .contact-mail {
+        width: 100%;
+        font-size: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 10px;
+
+    }
+    .container {
+        max-width: 364px;
+    }
+    .info-text {
+        text-align: center;
+    }
+    .info {
+        padding: 8px 0;
+    }
+    .info-content {
+        margin-top: 10px;
+    }
+    .info-pic {
+        width: 96%;
+        margin-top: 10px;
+    }
+    .content-title {
+        font-size: 12px;
+    }
+    .footer-media{
+        color: white;
+    }
+
+
+}
+@media (max-width: 377px){
+    .nav-group {
+        width: 50%;
+        padding: 5px;
+    }
+    .nav-group {
+        width: 56%;
+        padding: 9px;
+    }
+}
